@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Matilla",
+  "description": "Extention for working with numbers on the Web",
+  "version": "1.0",
+  "action": {
+    "default_popup": "matilla.html",
+    "default_icon": "matilla_extensions.png"
+  }
+}
